@@ -1,19 +1,20 @@
-# 👋 Halo, Saya Ridho Armansyah!
+# 👋 Halo, Saya Ridho Armansyah
 
-## 💻 Programmer | ☁️ Cloud Engineer | 🌟 IT Coordinator
+## 💻 Programmer Otodidak | ☁️ Cloud Engineer | 🌟 Information Technology
 
-Selamat datang di profil GitHub saya! Saya adalah seorang Programmer dan Cloud Enthusiast dari Purwokerto, Jawa Tengah, Indonesia.
+Selamat datang di profil GitHub saya!
+Saya adalah seorang Programmer Otodidak dan Cloud Enthusiast dari Purwokerto, Jawa Tengah, Indonesia.
 
 ### 🚀 Tentang Saya
 
 - 🏢 IT Coordinator di PT Dewa Ruci Bersemi
-- 🎓 Mahasiswa Informatika di Universitas Amikom Purwokerto
-- 🌍 Berbasis di Purwokerto, Jawa Tengah
+- 🎓 Mahasiswa Kelas Sore Prodi Informatika di Universitas Amikom Purwokerto
 - 💡 Passion untuk Teknologi Cloud dan Pengembangan Software
+- 🌍 Berbasis di Purwokerto, Jawa Tengah
 
 ### 🛠️ Tech Stack
 
-**Languages:** 
+**Languages:**
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -21,14 +22,14 @@ Selamat datang di profil GitHub saya! Saya adalah seorang Programmer dan Cloud E
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Frameworks & Libraries:** 
+**Frameworks & Libraries:**
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 **IDEs & Editors:**
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 ![DataGrip](https://img.shields.io/badge/-DataGrip-000000?style=flat-square&logo=datagrip&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
 
 **Cloud & DevOps:**
@@ -54,7 +55,6 @@ Selamat datang di profil GitHub saya! Saya adalah seorang Programmer dan Cloud E
 - 🖥️ Fullstack Developer Web, Mobile, Desktop
 - ☁️ Cloud Computing Enthusiast
 - 🐧 Ubuntu Server Addict
-- 🌐 Google Cloud Community
 
 ### 📫 Kontak Saya
 
@@ -65,5 +65,4 @@ Selamat datang di profil GitHub saya! Saya adalah seorang Programmer dan Cloud E
 ---
 
 💡 *"Belajar adalah proses yang tak pernah berhenti. Teknologi selalu berkembang, dan begitu pula kita."*
-
 💡 *"Keep Never Tired Learning ~ KNTL"*
