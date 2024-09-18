@@ -37,7 +37,6 @@ Saya adalah seorang Programmer Otodidak dan Cloud Enthusiast dari Purwokerto, Ja
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 **Version Control & OS:**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -65,4 +64,5 @@ Saya adalah seorang Programmer Otodidak dan Cloud Enthusiast dari Purwokerto, Ja
 ---
 
 💡 *"Belajar adalah proses yang tak pernah berhenti. Teknologi selalu berkembang, dan begitu pula kita."*
+
 💡 *"Keep Never Tired Learning ~ KNTL"*
