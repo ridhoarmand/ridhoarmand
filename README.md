@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Halo, Saya Ridho Armansyah
 
-<!--
-**ridhoarmand/ridhoarmand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Programmer Otodidak
 
-Here are some ideas to get you started:
+Selamat datang di profil GitHub saya!
+Saya adalah seorang Programmer Otodidak dan Cloud Enthusiast dari Purwokerto, Jawa Tengah, Indonesia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tentang Saya
+
+- 🎓 Mahasiswa Kelas Sore Prodi Informatika di Universitas Amikom Purwokerto
+- 💡 Passion untuk Pengembangan Software & Teknologi Cloud
+- 🌍 Berbasis di Purwokerto, Jawa Tengah
+
+### 📫 Kontak Saya
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ridhoarmand)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/ridhoarmand)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ridhoarmand)
+
+---
+
+💡 "Belajar adalah proses yang tak pernah berhenti. Teknologi selalu berkembang, dan begitu pula kita."
