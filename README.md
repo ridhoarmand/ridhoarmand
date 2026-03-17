@@ -4,7 +4,6 @@
 
 Selamat datang di profil GitHub saya!  
 *Pecutt pecutt pecutt (Cetassss)*.  
-Tapi ujung-ujungnya tetap ngoding manual, nyari bug sendiri, dan beresin masalah sampai tuntas.
 
 🌍 Berbasis di **Purwokerto, Jawa Tengah, Indonesia** 🇮🇩
 
@@ -13,7 +12,7 @@ Tapi ujung-ujungnya tetap ngoding manual, nyari bug sendiri, dan beresin masalah
 ## 🚀 Tentang Saya
 
 - 🎓 Mahasiswa **Informatika** Kelas Sore Universitas Amikom Purwokerto
-- 🤖 Programmer Kang pecut AI: *AI bukan buat gaya, tapi buat kerja*
+- 🤖 Programmer (Kang pecut AI)
 
 ---
 
@@ -27,5 +26,5 @@ Tapi ujung-ujungnya tetap ngoding manual, nyari bug sendiri, dan beresin masalah
 
 ✨ *Belajar adalah proses yang tak pernah selesai. Tools boleh berubah, tapi rasa penasaran harus tetap dipelihara.*
 
-✨ *Pecutlah AI sampai ke negeri China🇨🇳*
+✨ *Pecutlah AI sampai limit habis*
 
