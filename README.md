@@ -1,64 +1,52 @@
 <div align="center">
 
-# 👋 Halo, Saya Ridho Armansyah
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Ridho%20Armansyah&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Software%20Developer%20%C2%B7%20IT%20Generalist&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Ridho Armansyah" />
 
-### Information Technology | Software Developer | AI Enthusiast
-
-📍 Purwokerto, Jawa Tengah, Indonesia 🇮🇩
+<a href="https://github.com/ridhoarmand">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=640&lines=Halo!+Saya+Ridho+Armansyah+%F0%9F%91%8B;Software+Developer+%40+Purwokerto+%F0%9F%87%AE%F0%9F%87%A9;Backend+%E2%80%A2+System+Integration+%E2%80%A2+Cloud;Rabbit+hole%3A+LLM+%26+Agentic+Workflow+%F0%9F%A4%96;Pecutlah+AI+sampai+limit+habis+%E2%9A%A1;I+use+Arch+btw+%F0%9F%90%A7" alt="Typing SVG" />
+</a>
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ridhoarmand\&style=flat-square)
+<a href="https://www.linkedin.com/in/ridhoarmand"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/ridhoarmand"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://www.facebook.com/ridhoarmand"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<img src="https://komarev.com/ghpvc/?username=ridhoarmand&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
 ---
 
-## 👨‍💻 Tentang Saya
+## 🧑‍💻 `whoami`
 
-Lulusan **S1 Informatika Universitas Amikom Purwokerto** dengan **IPK 3.92**, saat ini bekerja di bidang **Software Development & IT**.
+```ts
+const ridho = {
+  role:          "Software Developer",
+  basedIn:       "Purwokerto, Jawa Tengah 🇮🇩",
+  education:     "S1 Informatika, Universitas Amikom Purwokerto (IPK 3.92)",
 
-Pekerjaan saya mencakup pengembangan aplikasi, backend, integrasi sistem, database, serta pemeliharaan dan pengembangan sistem yang sudah berjalan. Sebelumnya saya juga menangani IT support, cloud infrastructure, dan jaringan.
-
-Saya cukup dekat dengan dunia **open-source** dan senang memahami teknologi sampai ke cara kerjanya, bukan hanya menggunakannya. Ketertarikan saya banyak berada di sekitar **Artificial Intelligence, Software Architecture, System Integration, Cloud Platform, Networking, dan Developer Tools**.
-
-Belakangan, rabbit hole saya banyak mengarah ke **AI** — dari model dan LLM, Agentic Workflow, Hermes, Automation, sampai bansos AI hehe.
+  obsessedWith:  "AI: LLM, agentic workflow, Hermes, automation",
+  alwaysHunting: "Bansos AI 🤲",
+};
+```
 
 ---
 
-## 🛠️ Tech & Tools
+## 🛠️ Stack
 
-### Languages
+<div align="center">
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square\&logo=dart\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=dart,flutter,firebase,supabase,androidstudio" alt="Flutter" />
 
-### Development
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,php,laravel,dotnet,visualstudio" alt="JavaScript, PHP, .NET" />
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square\&logo=flutter\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square\&logo=nestjs\&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mysql,postgres,gcp,cloudflare,git,github,vscode" alt="Database, Cloud & Tools" />
 
-### Database & Backend Services
+<img src="https://skillicons.dev/icons?i=arch,linux" alt="Linux" />
+<img src="assets/mikrotik.svg" width="48" height="48" alt="MikroTik" title="MikroTik" />
+<img src="assets/hermes.svg" width="48" height="48" alt="Hermes Agent" title="Hermes Agent" />
 
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square\&logo=mariadb\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square\&logo=supabase\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
-
-### Infrastructure & Tools
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square\&logo=googlecloud\&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square\&logo=cloudflare\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square\&logo=visualstudio\&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square\&logo=androidstudio\&logoColor=white)
+</div>
 
 ---
 
@@ -73,67 +61,31 @@ Belakangan, rabbit hole saya banyak mengarah ke **AI** — dari model dan LLM, A
 <div align="center">
 
 <picture>
-  <source
-    srcset="https://github-stats-extended.vercel.app/api?username=ridhoarmand&show_icons=true&hide_border=true&theme=dark_github"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img
-    height="165"
-    src="https://github-stats-extended.vercel.app/api?username=ridhoarmand&show_icons=true&hide_border=true&theme=light_github"
-    alt="Ridho Armansyah's GitHub Stats"
-  />
+  <source srcset="https://github-stats-extended.vercel.app/api?username=ridhoarmand&show_icons=true&hide_border=true&theme=tokyonight" media="(prefers-color-scheme: dark)" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=ridhoarmand&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats" />
 </picture>
-
 <picture>
-  <source
-    srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=ridhoarmand&layout=compact&hide_border=true&langs_count=8&theme=dark_github"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img
-    height="165"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=ridhoarmand&layout=compact&hide_border=true&langs_count=8&theme=light_github"
-    alt="Ridho Armansyah's Top Languages"
-  />
+  <source srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=ridhoarmand&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" media="(prefers-color-scheme: dark)" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ridhoarmand&layout=compact&hide_border=true&langs_count=8&theme=default" alt="Top Languages" />
 </picture>
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
-
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ridhoarmand\&hide_border=true)
+**Kerjaan sampingan: mecut AI sampai limit habis. Cetass ⚡**
 
-</div>
+`$ yay -S bansos-ai`<br>
+`error: target not found: bansos-ai` 🥲
 
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ridho_Armansyah-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ridhoarmand)
-[![Instagram](https://img.shields.io/badge/Instagram-@ridhoarmand-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/ridhoarmand)
-[![Facebook](https://img.shields.io/badge/Facebook-Ridho_Armansyah-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://www.facebook.com/ridhoarmand)
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Sebenarnya saya hanya sesosok Kang Pecut AI
-
-**Pecutlah AI sampai limit habis.**
-
-*Pecutt pecutt pecutt... Cetassss ⚡*
-
-**🤖 Harap infokan bansos AI terdekat.**
+Kalau ada info bansos AI terdekat, kabarin ya.
 
 <br>
 
 `I use Arch btw.` 🐧
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="" />
 
 </div>
